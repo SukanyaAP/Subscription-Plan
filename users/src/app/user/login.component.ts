@@ -16,7 +16,7 @@ export class LoginComponent implements OnInit {
     }
 
     login(){
-     
+     nhfhgfhgfhg
         this.loginservice.setUserName(this.name)
     // this.name ="Visitor"
 
